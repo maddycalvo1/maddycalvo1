@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on React!
 
-🌱 I’m currently learning at The University of Texas at Austin as a Coding bootcamp student.
+📚 I am a coding bootcamp student at The University of Texas at Austin.
 
 😄 Pronouns: She/Her
 
