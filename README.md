@@ -1,12 +1,12 @@
 ### Hey, ya'll! 👋
 
-## 🔭 I’m currently working on React!
+🔭 I’m currently working on React!
 
-## 🌱 I’m currently learning at The University of Texas at Austin as a Coding bootcamp student.
+🌱 I’m currently learning at The University of Texas at Austin as a Coding bootcamp student.
 
-## 😄 Pronouns: She/Her
+😄 Pronouns: She/Her
 
-## 📫 You can reach me by email at madison.calvo1@gmail.com
+📫 You can reach me by email at madison.calvo1@gmail.com
 
 
 <!--
