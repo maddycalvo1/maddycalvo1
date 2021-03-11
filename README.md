@@ -1,6 +1,6 @@
 ### Hey, ya'll! 👋
 
-🔭 I’m currently working on React!
+🔭 I’m currently learning React!
 
 📚 I am a coding bootcamp student at The University of Texas at Austin.
 
