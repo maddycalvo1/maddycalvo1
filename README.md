@@ -1,12 +1,3 @@
-### Hey, ya'll! 👋
-
-🔭 I’m currently learning Ruby on Rails!
-
-📚 I am a coding bootcamp student at The University of Texas at Austin.
-
-😄 Pronouns: She/Her
-
-📫 You can reach me by email at madison.calvo1@gmail.com
 
 
 <!--
